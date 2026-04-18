@@ -1,0 +1,25 @@
+HW #4.4 Repository Goal/Plan
+
+Goals:
+
+1.) Create a repository with no glaring issues that includes important files from HW #4.3.
+2.) Properly format and set up the repository so that it can be used for future projects.
+
+Plan:
+
+1.) Create GitHub repository and name it something including your name and HW #4.4
+
+2.) Create planning document to lay out how you want to do the project.
+
+3.) Add Issues based on the planned you laid out, focusing on each step of the plan
+
+4.) Create a branch in the repository with your name that you can make commits in.
+
+5.) Edit the README file to include important information such as a description, a brief plan, contact information and information on the layout of the repository.
+
+6.) Add necessary files to the repository, such as HW #4.3 QMD and PDF files and this planning txt file.
+
+7.) When committing these files to the branch, add descriptive titles and descriptions with the phrase, "If applied, 
+this commit will...", and mention if the commit will resolve any of the issues you made.
+
+8.) When all files are committed to the branch, pull request all files to the main branch.
